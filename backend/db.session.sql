@@ -1,0 +1,20 @@
+-- create table users (
+--     id INTEGER PRIMARY KEY AUTOINCREMENT,
+--     username TEXT UNIQUE NOT NULL,
+--     password TEXT NOT NULL,
+--     email TEXT UNIQUE NOT NULL
+-- );
+
+-- insert into users (username, password,email) values (
+--     'admin',
+--     '123',
+--     'a@a.com'
+-- ),(
+--     'user1',
+--     '123',
+--     'a1@a.com'
+-- ),(
+--     'user2',
+--     '123',
+--     'a2@a.com'
+--     );
